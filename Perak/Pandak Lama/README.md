@@ -10,16 +10,34 @@
 
 ## 🔍 Analysis
 - **Initial Thoughts:**  
-Using Google Lens, the file is analyzed, and it is determined that the location is Kota Kayang Museum. Based on the hint, it says that Syah left a comment related to the place. So, the comment probably contains the flag.
+Using [Cipher Identifier](https://www.dcode.fr/cipher-identifier), it is identified that the ROT-13 Cipher is used to obtain the cipher given.
 ![image](https://github.com/user-attachments/assets/80706fdc-cc6f-4a0a-99a9-7982508ae883)
 
 
 
 ## 🛠️ Solution
-- By simply performing a Google search for Kota Kayang Museum "3108", the flag is revealed.
-![image](https://github.com/user-attachments/assets/937c03a2-ef5b-4f02-b490-ae01fb0f70f6)
-3108{Muzium_Bersejarah_Perlis}
+- By simply using [ROT-13 Cipher Decoder](https://www.dcode.fr/rot-13-cipher) , the ciphertext is decoded to reveal the flag.
+
+![image](https://github.com/user-attachments/assets/4effbdae-9a14-43e7-a961-12d70a24bac2)
+```
+Faktor penentangan Dato Maharaja Lela
+Mengambil hak mengutip cukai.
+24Julai1875 Birch memaksa Sultan Abdullah menandatangani pengisytiharan
+yang membolehkan British mengambil hak mengutip cukai.
+Sultan Abdullah diugut akan diturunkan takhta jika enggan menandatangani pengisytiharan tersebut.
+Birch membakar rumah Raja Ngah Orang Besar Perak kerana meneruskan kutipan cukai di Bidor.
+Mencabar Ketuanan Melayu.
+Kemarahan Sultan dan pembesar Perak memuncak pada 2Oktober1875.
+Sultan Abdullah dipaksa menandatangani surat penyerahan kuasa kepada British.
+Kuasa mentadbir negeri diserahkan kepada Residen yang berkuasa melantik hakim, menguruskan
+cukai dan melantik penghulu.
+Memperkenalkan Cukai Baru Birch bertindak sesuka hati dengan memperkenalkan cukai baru seperti cukai
+padi, perahu atap, senjata dan bayaran permit untuk membalak. 3108k3b4ngk1tanp4hl4w4n Setiap isi rumah perlu
+membayar 2Dolar sebagai cukai kelamin. Mencabuli Adat Resam Birch dibenci oleh sultan dan
+pembesar-pembesar Perak apabila mengharamkan sistem perhambaan yang menjadi adat resam Melayu
+Birch sengaja menimbulkan kemarahan orang Melayu dengan menyimpan hamba-hamba perempuan di rumahnya.an menyimpan hamba-hamba perempuan di rumahnya.
+```
+3108{k3b4ngk1tanp4hl4w4n}
   
 ## 🧰 Tools Used
-- Google Lens
-- Google Dorking
+- ROT-13 Cipher Decoder
