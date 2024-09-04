@@ -17,9 +17,12 @@ Simple Google Seacrh on "NEGARA MANA MERACUN PERIGI MELAKA". The well known as "
 
 ## 🛠️ Solution
 - So, using the command *unrar x flag.rar* and the password *Belanda* gives us the flag.txt!!!
+
 ![image](https://github.com/user-attachments/assets/860fa441-cb8a-4fbe-b5f4-0b696a426693)
 - Then, use *cat flag.txt* to reveal the flag!! FLAGGG!!!!
+
 ![image](https://github.com/user-attachments/assets/e50b3623-89d5-42c1-b9db-9429c9d26f74)
+
 3108{th3_k1ngs_w3ll_st4ys_0n}   
 
 ## 🧰 Tools Used
