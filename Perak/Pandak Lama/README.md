@@ -11,6 +11,7 @@
 ## 🔍 Analysis
 - **Initial Thoughts:**  
 Using [Cipher Identifier](https://www.dcode.fr/cipher-identifier), it is identified that the ROT-13 Cipher is used to obtain the cipher given.
+
 ![image](https://github.com/user-attachments/assets/80706fdc-cc6f-4a0a-99a9-7982508ae883)
 
 
