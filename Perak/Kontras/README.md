@@ -15,6 +15,7 @@ Initially, I attempted to uncover the censored words by comparing them with the 
 
 ## 🛠️ Solution
 ![image](https://github.com/user-attachments/assets/ace01e63-280b-44e8-87c6-62abe0669038)
+
 3108{Peghak_Darul_ridzuAn}  
 
 ## 🧰 Tools Used
