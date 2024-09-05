@@ -8,7 +8,7 @@ selamat mencubaa perwira!!!!
 >
 > **Challenge URL:** https://6654c734cc.bahterasiber.my/
 >
-> **Category:** Cryptography 🧮  
+> **Category:** Web 🕸️  
 
 ## 🔍 Analysis
 - **Initial Thoughts:**  
