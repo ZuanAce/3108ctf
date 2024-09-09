@@ -1,32 +1,29 @@
-# Sejarah N9 🧩
+# Sejarah N9 🧩 + 🧮
 
 ## 🧾 Challenge Description
 > **Points:** 100   
 >  
-> Bangunan Tertinggi Di Malaysia yang tidak terbina. Tahu kat mana?
+> Negeri Sembilan secara rasminya ditubuhkan pada 1889, suku di negeri sembilan ada 12 dan daerah di Negeri Sembilan ada 7. Setiap peristiwa pasti tersingkap padanya angka sejarah. Momen terbesar sebelum peristiwa2 di atas ada pada kod id bawah. Boleh baca?
 >
-> Flag Format: 3108{latitude, longtitude}
->
-> Jawapan dalam dua titik perpuluhan
+> 2097119120211115191514712116114
 > 
-> **Category:** Forensic 🕵️‍♂️
+> **Category:** Trivia + Misc + Cryptography 🧩 + 🧮
 
 
 ## 🔍 Analysis
 - **Initial Thoughts:**  
-Using Google Lens, the file is analyzed, and it is determined that the location is Tradewinds Square Tower.
+Use [Cipher Idendifier](https://www.dcode.fr/cipher-identifier) to determine the type of algorithm used for encrypting the plaintext.
 
-![image](https://github.com/user-attachments/assets/f8c06b6b-a341-44a8-9068-781318edeaad)
+![image](https://github.com/user-attachments/assets/5c66af05-5e1f-44e0-b8ba-f618ddf015b7)
 
 
 ## 🛠️ Solution
-- By simply performing [GeoHack - Tower M](https://geohack.toolforge.org/geohack.php?pagename=Tower_M&params=3_9_27.8598_N_101_43_3.7986_E_), the flag is revealed using the coordinates.
+- By simply using [Letter Number Code (A1Z26) Decoder](https://www.dcode.fr/letter-number-cipher), to brute force the ciphertext, the readable strings *KOSONG* and *LAPAN* appear. Using CTRL+F to search for these strings leads to the final result: **TIGASATUKOSONGLAPAN**.
+  
+![image](https://github.com/user-attachments/assets/9ed381db-5931-4565-ab9e-af563027fff9)
 
-![image](https://github.com/user-attachments/assets/5e069b1e-c355-4cd4-8d7a-830ec9dc2a7b)
-
-3108{3.15, 101.71}
+3108{TIGASATUKOSONGLAPAN}
   
 ## 🧰 Tools Used
-- Google Lens
-- Geo Hack
-
+- Cipher Identifier
+- Letter Number Code (A1Z26) Decoder
