@@ -1,4 +1,4 @@
-# zZzZz 🕸️
+# zZzZz 🕸️ + 🧮
 
 ## 🧾 Challenge Description
 > **Points:** 100    
@@ -6,7 +6,7 @@
 > ZZZZZ ZZZzZ ZZZZZZ ZZZZZ ZzZZz ZZZZ ZZZ ZZ ZZZZZ ZZzZZ ZZzZZ ZzZZ ZZZZZZ ZZ
 > **Challenge URL:** https://9798fd3cc4.bahterasiber.my/
 >  
-> **Category:** Web 🕸 
+> **Category:** Web + Cryptography 🕸 + 🧮
 
 ## 🔍 Analysis
 - **Initial Thoughts:**  
