@@ -6,4 +6,9 @@
 >
 > Overall, it was a fantastic experience. 
 
-![image](https://github.com/user-attachments/assets/365c2428-4285-48ca-a8fa-416fb5a4bb37)
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/365c2428-4285-48ca-a8fa-416fb5a4bb37">
+</p>
+
+![image](https://github.com/user-attachments/assets/64f44a4e-2eb7-4a7e-ae70-765ef1c4b090)
+
